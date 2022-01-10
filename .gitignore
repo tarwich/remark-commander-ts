@@ -1,0 +1,4 @@
+**/node_modules
+**/package-lock.json
+# We might need to remove this. Right now it's a test
+**/*.html
